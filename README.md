@@ -13,6 +13,6 @@ welcome!
 Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/mrhny/?direct%26mode=render%26action=download%26mode=render)
 |   | Run |
 | - | --- |
-| Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/yizhoucc/cmu_summercamp_2024/intro.ipynb) | 
-| Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/yizhoucc/cmu_summercamp_2024/intro.ipynb) | 
+| Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+
 
