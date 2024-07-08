@@ -40,7 +40,7 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/mrhny/?direct%
 | - | --- |
 | Familiar with Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/getting_start_notebook.ipynb) | 
 | Host your own chatbot | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/host_your_own_chatbot.ipynb) |  | 
-<!-- | Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) |  -->
+
 
 **Broad Picture of the Camp and Setup**
    - Set up tools such as Google accounts and familiarize students with Colab notebooks.
@@ -69,8 +69,8 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 ## Day 2
 |   | Run |
 | - | --- |
-| Segmentation Anything | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| some example models? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| Segmentation Anything | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/segmentation.ipynb) |  | 
+| some example models? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/xxx.ipynb) |  | 
 
 
 **Evolution of AI and Machine Learning**
@@ -86,10 +86,9 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 ## Day 3
 |   | Run |
 | - | --- |
-| LLM finetuning to make chinese poem (LORA supervised learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| LLM alignment with human preferrence (DPO supervised contrastive learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| Make a lecture note taker app | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-
+| LLM finetuning to make chinese poem (LORA supervised learning) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_poem.ipynb) |  | 
+| LLM alignment with human preferrence (DPO supervised contrastive learning) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_align_dpo.ipynb) |  | 
+| Make a lecture note taker app |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_lecture_summerizer.ipynb) |  | 
 **Large Language Models**
    - Recurrent models.
    - Time series prediction.
@@ -105,9 +104,9 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 ## Day 4
 |   | Run |
 | - | --- |
-| Stable diffusion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| Finetune the stable diffusion to generate consistant images | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| Generate a short video clip from image | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| Stable diffusion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/stable_diffusion.ipynb) |  |
+| Finetune the stable diffusion to generate consistant images | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/sd_finetuning.ipynb) |  |
+| Generate a short video clip from image |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/img2vid.ipynb) |  |
 
 **Computer Vision**
    - Terms and basic operations such as cropping, rotating, filtering.
@@ -126,7 +125,7 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 ## Day 5
 |   | Run |
 | - | --- |
-| LLM alignment with human preferrence (reinformcement learning)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| LLM alignment with human preferrence (reinformcement learning)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_RL_imdb.ipynb) | 
 
 
 **The Backbone of Modern-Day AI: Unsupervised Learning**
