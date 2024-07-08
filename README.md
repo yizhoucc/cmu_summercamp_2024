@@ -89,6 +89,7 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 | LLM finetuning to make chinese poem (LORA supervised learning) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_poem.ipynb) |  | 
 | LLM alignment with human preferrence (DPO supervised contrastive learning) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_align_dpo.ipynb) |  | 
 | Make a lecture note taker app |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_lecture_summerizer.ipynb) |  | 
+
 **Large Language Models**
    - Recurrent models.
    - Time series prediction.
