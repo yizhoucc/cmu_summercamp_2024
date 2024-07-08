@@ -1,4 +1,4 @@
-# todo:
+# Todos:
 day1 
     intro slide, 
         outline and overview.  
@@ -34,7 +34,7 @@ day 5
 Welcome!
 
 ## Day 1
-Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/mrhny/?direct%26mode=render%26action=download%26mode=render) 
+Slides: [Intro](https://docs.google.com/presentation/d/1Lh_UPKjiQD8hTpLgkOm4fd_ANgx0Jh9V-Sk0mzjn99E/edit?usp=sharing) 
 
 |   | Run |
 | - | --- |
