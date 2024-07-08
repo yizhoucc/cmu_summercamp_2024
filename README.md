@@ -38,7 +38,7 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/mrhny/?direct%
 
 |   | Run |
 | - | --- |
-| Familiar with Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/getting_start_notebook.ipynb) | 
+| Familiar with Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/getting_start_notebook.ipynb) | 
 | Host your own chatbot | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 <!-- | Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) |  -->
 
