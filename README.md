@@ -1,19 +1,46 @@
-# CMU Feiyue 2024 week 1 Content
+# todo:
+day1 
+    intro slide, 
+        outline and overview.  
+    notebook
+        very basic notebook about colab
+day2,
+    slides:
+        some history
+    notebook
+        segmentation
+        img classification
+        recurrent timeseries models
+day3 language, 
+    slides 
+        time series data
+        encoder decoder structure
+        desckrtion about notebooks
+day 4, vision,
+    slides:
+        img processing, etc
+        noteook
 
-welcome!
+day 5     
+    slides:
+        prcess data and embedding
+        rl
+        some wrap at the end
+    notebook
+        RL example game notebook
+
+
+
+# CMU Feiyue 2024 week 1 Content
+Welcome!
 
 ## Day 1
-
 Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/mrhny/?direct%26mode=render%26action=download%26mode=render) 
-todo: mising outline and overview.
 
 |   | Run |
 | - | --- |
 | Familiar with Colab and host your own chatbot | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 <!-- | Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) |  -->
-
-
-
 
 **Broad Picture of the Camp and Setup**
    - Set up tools such as Google accounts and familiarize students with Colab notebooks.
@@ -25,32 +52,18 @@ todo: mising outline and overview.
       - Image, video
       - Language
    - If there is time and students are familiar with the notebooks, they can try out some interesting models that will be covered later.
-
-
 ### google colab pro
-we will need to use google colab to run our code and build apps. you will need credit card info to pay for colab pro subscription ($10 or pay as you go, recommonded). remmeber to cancel the subscription after this summercamp to avoid repeated charges. another option is the google GCP VM if you are familiar with that. the recommonded machine type is A2 standard 1 gpu. it cost ~4 per hour. you should have $300 credit in your account as a first time user. 
-
+we will need to use google colab to run our code and build apps. you will need credit card info to pay for colab pro subscription ($10 or pay as you go, recommonded). remmeber to cancel the subscription after this summercamp to avoid repeated charges. another option is the google GCP VM if you are familiar with that. the recommonded machine type is A2 standard 1 gpu (a2-highgpu-1g). it cost ~4 per hour. you should have $300 credit in your account as a first time user. 
 ### gemini api
 get a gemini api key from [here](https://ai.google.dev/gemini-api/docs/api-key). login using your google account. click get api key. save the api key in your note. we will need it. gemini has free tier usage of 1500 request per day. enough for playing around.
-
 ### openai api (optional)
 get a openai (chatgpt) api key from [here](https://platform.openai.com/usage). login using your google account. click get api key. save the api key in your note. we will need it.
 you should have $5 credit. openai does not have free usage. each request will use the credit till you have 0. we will mainly use gemini, but you are welcome to play with openai. code template will be provided in the notebooks.
-
 ### huggingface token
 get huggingface account and token. some models may need to confirm their terms and thus a hg token is needed in code.
 ### wandb token
-wandb is a tool to visualize the training progress. get a wandb token and add it to your code when prompted.
-
+wandb is a tool to visualize the training progress. get a wandb token and add it to your code when prompted. another option is to use the browser built in login.
 **important! save your tokens in one document! we will need to use them in the code**
-
-
-
-
-
-
-
-
 
 
 ## Day 2
@@ -69,28 +82,12 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Day 3
 |   | Run |
 | - | --- |
-| LLM finetuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| LLM alignment with human preferrence | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| make a lecture note taker app | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-
-todo: 1,make a private repo for data. 2, check if there are smaller models. 3, save checkpoints in drive for student to play later. 4, save more res
-
+| LLM finetuning to make chinese poem (LORA supervised learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| LLM alignment with human preferrence (DPO supervised contrastive learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| Make a lecture note taker app | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 
 **Large Language Models**
    - Recurrent models.
@@ -104,25 +101,12 @@ todo: 1,make a private repo for data. 2, check if there are smaller models. 3, s
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## Day 4
 |   | Run |
 | - | --- |
-| stable diffusion? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| stable diffusion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 | finetune the stable diffusion to generate consistant images | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 | generate a short video clip from image | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-
-
-
 
 **Computer Vision**
    - Terms and basic operations such as cropping, rotating, filtering.
@@ -138,14 +122,10 @@ todo: 1,make a private repo for data. 2, check if there are smaller models. 3, s
 
 
 
-
-
-
-
 ## Day 5
 |   | Run |
 | - | --- |
-| LLM alignment with human preferrence using reinformcement learning| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| LLM alignment with human preferrence (reinformcement learning)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 
 
 **The Backbone of Modern-Day AI: Unsupervised Learning**
@@ -156,26 +136,13 @@ todo: 1,make a private repo for data. 2, check if there are smaller models. 3, s
       - Activity: Train a simple game with rendering.
 
 
-
-
-
-
-
-
-
-
-<!-- ## quick links
-[Day1](#w1d1---generalization) | [Day2](#w1d2---comparing-tasks) | -->
-<!-- https://github.com/yizhoucc/cmu_summercamp_2024 -->
-
-
-
-
 # Guest speaker scheule
 | day  | name | topic |
 | - | --- | --- |
 | 1 | --- | --- |
 | 2 | Lane Lewis | research and the bias variance trade off |
-| 3 | Saaketh | language |
+| 3 | Saaketh | Interpretability of language models |
 | 4 | --- | --- |
 | 5 | --- | --- |
+
+
