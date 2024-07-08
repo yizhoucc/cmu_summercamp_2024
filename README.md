@@ -8,7 +8,7 @@ day2,
     slides:
         some history
     notebook
-        segmentation
+        x segmentation
         img classification
         recurrent timeseries models
 day3 language, 
@@ -20,7 +20,6 @@ day 4, vision,
     slides:
         img processing, etc
         noteook
-
 day 5     
     slides:
         prcess data and embedding
@@ -39,7 +38,8 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/mrhny/?direct%
 
 |   | Run |
 | - | --- |
-| Familiar with Colab and host your own chatbot | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| Familiar with Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/getting_start_notebook.ipynb) | 
+| Host your own chatbot | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 <!-- | Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) |  -->
 
 **Broad Picture of the Camp and Setup**
@@ -69,6 +69,7 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 ## Day 2
 |   | Run |
 | - | --- |
+| Segmentation Anything | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 | some example models? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 
 
@@ -104,9 +105,9 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 ## Day 4
 |   | Run |
 | - | --- |
-| stable diffusion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| finetune the stable diffusion to generate consistant images | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
-| generate a short video clip from image | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| Stable diffusion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| Finetune the stable diffusion to generate consistant images | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
+| Generate a short video clip from image | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/cmu_summercamp_2024/blob/main/intro.ipynb) | 
 
 **Computer Vision**
    - Terms and basic operations such as cropping, rotating, filtering.
