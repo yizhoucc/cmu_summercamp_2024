@@ -139,9 +139,9 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 | day  | name | topic |
 | - | --- | --- |
 | 1 | --- | --- |
-| 2 | Lane Lewis | research and the bias variance trade off |
+| 2 | Lane Lewis | Research and the bias variance trade off |
 | 3 | Saaketh | Interpretability of language models |
-| 4 | --- | --- |
+| 4 | Joseph | Mathematical and logical reasoning |
 | 5 | --- | --- |
 | flexiable day | Noushin | Reinforcement learning and control |
 | flexiable day | Eric | Network stucture enabling functions |
