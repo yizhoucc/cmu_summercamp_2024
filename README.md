@@ -1,4 +1,4 @@
-# Todos:
+# TODO:
 day1 
     intro slide, 
         outline and overview.  
@@ -72,7 +72,6 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 | Segmentation Anything | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/segmentation.ipynb) |  | 
 | some example models? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/xxx.ipynb) |  | 
 
-
 **Evolution of AI and Machine Learning**
    - Basic models such as linear regressions, which solve simple problems.
    - Neural networks, which solve broader problems.
@@ -98,7 +97,6 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
       - Generate text.
    - Embedding.
       - Activity: Try prompts and experiment with different models.
-
 
 
 
@@ -145,5 +143,6 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 | 3 | Saaketh | Interpretability of language models |
 | 4 | --- | --- |
 | 5 | --- | --- |
-
-
+| flexiable day | Noushin | Reinforcement learning and control |
+| flexiable day | Eric | Network stucture enabling functions |
+| flexiable day | --- | --- |
