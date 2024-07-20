@@ -80,7 +80,8 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
    - Modern-day AI, including large language models and generative models.
    - Activity: Implement modern-day large models with code and APIs.
 
-
+### useful links
+[transformer visualization](https://poloclub.github.io/transformer-explainer/)
 
 ## Day 3
 |   | Run |
@@ -138,11 +139,10 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 # Guest speaker scheule
 | day  | name | topic |
 | - | --- | --- |
-| 1 | --- | --- |
-| 2 | Lane Lewis | Research and the bias variance trade off |
-| 3 | Saaketh | Interpretability of language models |
-| 4 | Joseph | Mathematical and logical reasoning |
-| 5 | --- | --- |
-| flexiable day | Noushin | Reinforcement learning and control |
-| flexiable day | Eric | Network stucture enabling functions |
-| flexiable day | --- | --- |
+| day 1 | --- | --- |
+| day 2 2pm | Lane Lewis | Research and the bias variance trade off |
+| day 3 2pm | Saaketh | Interpretability of language models |
+| day 4 10am| Joseph | Mathematical and logical reasoning |
+| day 5 2pm | Noushin | Reinforcement learning and control |
+| day 5 3pm | Eric | Network stucture enabling functions |
+
