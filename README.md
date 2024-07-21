@@ -1,35 +1,3 @@
-# TODO:
-day1 
-    intro slide, 
-        outline and overview.  
-    notebook
-        very basic notebook about colab
-day2,
-    slides:
-        some history
-    notebook
-        x segmentation
-        img classification
-        recurrent timeseries models
-day3 language, 
-    slides 
-        time series data
-        encoder decoder structure
-        desckrtion about notebooks
-day 4, vision,
-    slides:
-        img processing, etc
-        noteook
-day 5     
-    slides:
-        prcess data and embedding
-        rl
-        some wrap at the end
-    notebook
-        RL example game notebook
-
-
-
 # CMU Feiyue 2024 week 1 Content
 Welcome!
 
@@ -136,13 +104,20 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
       - Activity: Train a simple game with rendering.
 
 
-# Guest speaker scheule
-| day  | name | topic |
-| - | --- | --- |
-| day 1 | --- | --- |
+# Guest Speaker Lectures and Activities
+| day & time     | name | topic |
+| --------- | --- | --- |
+| day 1 9am  | --- | Opening talks |
+| day 1 1pm | Greg | Tour to CMU AI makerspace |
+| day 1 2pm | --- | Campus tour |
+| --- | --- | --- |
+| day 2 9am  | --- | Opening talks continue |
 | day 2 2pm | Lane Lewis | Research and the bias variance trade off |
+| --- | --- | --- |
 | day 3 2pm | Saaketh | Interpretability of language models |
+| --- | --- | --- |
 | day 4 10am| Joseph | Mathematical and logical reasoning |
+| --- | --- | --- |
 | day 5 2pm | Noushin | Reinforcement learning and control |
 | day 5 3pm | Eric | Network stucture enabling functions |
 
