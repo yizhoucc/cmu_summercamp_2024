@@ -8,7 +8,6 @@ day2,
     slides:
         some history
     notebook
-        x segmentation
         img classification
         recurrent timeseries models
 day3 language, 

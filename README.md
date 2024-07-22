@@ -2,7 +2,7 @@
 Welcome!
 
 ## Day 1
-Slides: [Intro](https://docs.google.com/presentation/d/1Lh_UPKjiQD8hTpLgkOm4fd_ANgx0Jh9V-Sk0mzjn99E/edit?usp=sharing) 
+
 
 |   | Run |
 | - | --- |
@@ -107,11 +107,10 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 # Guest Speaker Lectures and Activities
 | day & time     | name | topic |
 | --------- | --- | --- |
-| day 1 9am  | --- | Opening talks |
-| day 1 1pm | Greg | Tour to CMU AI makerspace |
+| day 1 1pm | Greg | Tour to CMU AI makerspace (meet at Tepper welcome center) |
 | day 1 2pm | --- | Campus tour |
 | --- | --- | --- |
-| day 2 9am  | --- | Opening talks continue |
+| day 2 9am  | --- | Opening talk |
 | day 2 2pm | Lane Lewis | Research and the bias variance trade off |
 | --- | --- | --- |
 | day 3 2pm | Saaketh | Interpretability of language models |
