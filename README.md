@@ -113,10 +113,14 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 | day 2 9am  | --- | Opening talk |
 | day 2 2pm | Lane Lewis | Research and the bias variance trade off |
 | --- | --- | --- |
-| day 3 2pm | Saaketh | Interpretability of language models |
+| day 3 2pm | Saaketh Medepalli | Interpretability of language models |
 | --- | --- | --- |
-| day 4 10am| Joseph | Mathematical and logical reasoning |
+| day 4 10am| Joseph Hua | Mathematical and logical reasoning |
 | --- | --- | --- |
-| day 5 2pm | Noushin | Reinforcement learning and control |
-| day 5 3pm | Eric | Network stucture enabling functions |
+| day 5 2pm | Noushin Quazi | Reinforcement learning and control |
+| day 5 3pm | Eric Tao | Network stucture enabling functions |
 
+
+
+# slides
+[history of ML](https://docs.google.com/presentation/d/1OxvvQ6gfM4f5WzXBjMZGVCgTc4muHvjdHakGEdaXf5E/edit?usp=sharing)
