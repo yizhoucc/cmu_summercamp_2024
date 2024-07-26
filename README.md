@@ -117,7 +117,7 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 | day 1 2pm | --- | Campus tour |
 | --- | --- | --- |
 | day 2 9am  | --- | Opening talk |
-| day 2 2pm | Lane Lewis | Research and the bias variance trade off |
+| day 2 2pm | Lane Lewis | Research and the bias variance trade off [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/rob-explodes.ipynb) |
 | --- | --- | --- |
 | day 3 2pm | Saaketh Medepalli | Interpretability of language models  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/rome_interp_tutorial.ipynb) |
 | --- | --- | --- |
