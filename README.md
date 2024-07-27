@@ -131,4 +131,6 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 
 
 # extra readings
-[word embedding heatmap] (https://transformer-circuits.pub/2024/scaling-monosemanticity/features/index.html?featureId=34M_31164353)
+[Word embedding heatmap](https://transformer-circuits.pub/2024/scaling-monosemanticity/features/index.html?featureId=34M_31164353) is mentioned in Saaketh's talk.
+
+[Neuromatch academy deep learning course](https://deeplearning.neuromatch.io/tutorials/intro.html) is a more advanced course focus on deep learning. It covers details such as how to implement the networks (we skipped much of those tech details).
