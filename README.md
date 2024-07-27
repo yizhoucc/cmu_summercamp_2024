@@ -93,12 +93,15 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 ## Day 5
 |   | Run |
 | - | --- |
-| LLM alignment with human preferrence (reinformcement learning)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_RL_imdb.ipynb) | 
+| LLM alignment with human preferrence (reinformcement learning) (optional) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/llm_RL_imdb.ipynb) | 
 | Reinforcement learning cartpole |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/RL_cartpole.ipynb) | 
 | Reinforcement parking |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/RL__parking_model_based.ipynb) | 
 | Reinforcement learning HER (hindsight experience replay) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/RL_parking_her.ipynb) | 
 | Reinforcement learning adeversial with atari_games |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/RL_atari_games.ipynb) | 
 | Reinforcement learning highway dqn |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yizhoucc/turtorials/blob/main/notebooks/highway_dqn.ipynb) | 
+| Reinforcement learning start from scratch (with exercise) from neuroacademy |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content-dl/blob/main/tutorials/W3D5_ReinforcementLearningForGamesAndDlThinking3/student/W3D5_Tutorial1.ipynb) | 
+
+
 
 
 
@@ -123,10 +126,9 @@ wandb is a tool to visualize the training progress. get a wandb token and add it
 | --- | --- | --- |
 | day 4 10am| Joseph Hua | Mathematical and logical reasoning |
 | --- | --- | --- |
-| day 5 2pm | Noushin Quazi | Reinforcement learning and control |
-| day 5 3pm | Eric Tao | Network stucture enabling functions |
+| day 5 2pm | Eric Tao | Network stucture enabling functions |
+| day 5 3pm | Noushin Quazi | Reinforcement learning and control |
 
 
-
-# slides
-[history of ML](https://docs.google.com/presentation/d/1OxvvQ6gfM4f5WzXBjMZGVCgTc4muHvjdHakGEdaXf5E/edit?usp=sharing)
+# extra readings
+[word embedding heatmap] (https://transformer-circuits.pub/2024/scaling-monosemanticity/features/index.html?featureId=34M_31164353)
